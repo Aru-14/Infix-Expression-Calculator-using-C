@@ -7,4 +7,3 @@ contains the postfix expression (obtained by infix to postfix conversion algorit
 3
 rd contains the result obtained by evaluation of postfix expression.
 • It accepts single digit input only, not two or three digit input.
-Changes
